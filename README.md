@@ -27,8 +27,8 @@ While my specific research focus is still taking shape, I'm embracing the breadt
 
 ### Past Projects
 
-- [List of Past Projects](#past-projects-list-link) - A list of my completed projects here.
-- [My CS playground](#past-projects-list-link) - A list of programs/projects on different physics-unrelated topics.
+- [List of Past Projects](https://github.com/stars/m-boghdady/lists/comp-physics-applied-ml) - A list of my completed projects here.
+- [My CS playground](https://github.com/stars/m-boghdady/lists/cs) - A list of programs/projects on different physics-unrelated topics.
 
 ---
 
