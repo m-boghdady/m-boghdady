@@ -34,7 +34,7 @@ While my specific research focus is still taking shape, I'm embracing the breadt
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mustafa-m-mohamed-el-boghdady) [![Email](https://img.icons8.com/color/48/000000/email-sign.png)](mailto:mustafa_elboghdady@aucegypt.edu) [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/bo8daady)
 
-Feel free to explore my repositories & LinkedIn account for more work, and let me know if you're interested in collaborating or discussing any related topics :) 
+Feel free to explore my LinkedIn account for more work, and let me know if you're interested in collaborating or discussing any related topics :) 
 
 
 
