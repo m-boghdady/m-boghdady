@@ -23,18 +23,18 @@ While my specific research focus is still taking shape, I'm embracing the breadt
 
 ### Current Work
 
-- [Current Projects Repository](#current-projects-repo-link) - Check my ongoing work on developing a QC algorithm to optimize diiferent quantum systems simulations.
+- [Current work](#current-projects-repo-link) - Check my ongoing work on developing a QC algorithm to optimize different quantum systems simulations.
 
 ### Past Projects
 
-- [List of Past Projects](#past-projects-list-link) - Explore my completed projects here.
-- [My CS playground](#past-projects-list-link) - Here you can find some programs on different physics-unrelated topics.
+- [List of Past Projects](#past-projects-list-link) - A list of my completed projects here.
+- [My CS playground](#past-projects-list-link) - A list of programs/projects on different physics-unrelated topics.
 
 ---
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mustafa-m-mohamed-el-boghdady) [![Email](https://img.icons8.com/color/48/000000/email-sign.png)](mailto:mustafa_elboghdady@aucegypt.edu) [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/bo8daady)
 
-Feel free to explore my repositories and reach out if you're interested in collaborating or discussing any related topics.
+Feel free to explore my repositories & LinkedIn account for more work, and let me know if you're interested in collaborating or discussing any related topics :) 
 
 
 
