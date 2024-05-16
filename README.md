@@ -2,7 +2,7 @@
 
 # This is Mustafa M. Mohamed (El-Boghdady)
 
-## Physics & Mathematics Undergraduate
+## Physics & Mathematics UG | Quantum Computing | Particle Physics
 
 ---
 
