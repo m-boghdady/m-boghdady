@@ -12,10 +12,9 @@ I'm a casual learner committed to perpetual understanding of things.
 
 ### Research Interests
 
-- Quantum Computing 
-- Large-scale Quantum Simulations
+- Quantum Computing / Simulations 
 - Theoretical & Computational Particle Physics 
-- Applied ML 
+- Big Data Analytics
 
 ### Academic Goals
 
