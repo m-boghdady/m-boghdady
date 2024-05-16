@@ -2,7 +2,7 @@
 
 # This is Mustafa M. Mohamed (El-Boghdady)
 
-## Physics & Mathematics Student | Research Assistant 
+## Physics & Mathematics Undergraduate
 
 ---
 
